@@ -642,5 +642,113 @@
                 "image": "shield heraldies"
             }
         ]
+    },
+    "2025-09-22": {
+        "wgtjunior743": [
+            {
+                "bugfix": "Vault keys can open the Storage doors near the vault."
+            }
+        ],
+        "Wouju": [
+            {
+                "rscadd": "Added a new artificer contraption, basically an ingot mold that cools down metal twice as fast as a normal one (normal ingot moulds cool down THRICE as fast as before now)"
+            },
+            {
+                "bugfix": "fixed ingot molds not needing to reharden metal after the first harden-ing"
+            }
+        ]
+    },
+    "2025-09-23": {
+        "Wouju": [
+            {
+                "balance": "adepts no longer have church key"
+            },
+            {
+                "rscadd": "Abyssorites and Pestrans can summon leeches now."
+            },
+            {
+                "balance": "tweaked cost and cooldown of cure rot and bodypart miracle. Bodypart miracle now heals limbs and organs when reattached."
+            },
+            {
+                "balance": "Fireball, arcyne storm and meteor storm have shout invocations now."
+            },
+            {
+                "rscadd": "Added new mercenary. Sellmage. Basically a mage noble whom became a mercenary to make ends meet."
+            }
+        ],
+        "wgtjunior743": [
+            {
+                "bugfix": "Non zizo cultist worshippers being affected by the zizo godweapon."
+            },
+            {
+                "bugfix": "Zizo clerics/paladins hearing the necra variant when someone dies instead of the zizo one."
+            }
+        ],
+        "SarmentiCampbell": [
+            {
+                "rscadd": "Add a race-locked patron for Rakshari in the godless section."
+            }
+        ],
+        "MercadierY2K": [
+            {
+                "balance": "Fishers now start with average crafting and some sewing skill."
+            }
+        ],
+        "snowyseshi": [
+            {
+                "rscadd": "Added descriptions for the ancient gauntlet, ancient hauberk renamed to ancient haubergeon"
+            },
+            {
+                "balance": "Vampire plate is now a half-plate like the sprite."
+            },
+            {
+                "balance": "Savoyard now has steel durability"
+            }
+        ]
+    },
+    "2025-09-24": {
+        "7erracotta": [
+            {
+                "balance": "Increased armor ot the lakkaian jupon to match the padded gambeson, as was intended"
+            }
+        ],
+        "CheffieGithub": [
+            {
+                "bugfix": "Fixed false appearance changing your limbs/organs/patron and prevents it working on the undead."
+            }
+        ],
+        "wgtjunior743": [
+            {
+                "rscadd": "Silver Amulet can also protect you from the WW infection"
+            }
+        ],
+        "Wouju": [
+            {
+                "balance": "Wooden shield integrity slightly buffed, aswell as coverage. The heater shield is still a direct upgrade."
+            },
+            {
+                "balance": "coifs have proper armour classes now"
+            },
+            {
+                "balance": "renegade collar requires hide to craft"
+            },
+            {
+                "balance": "coif, etc. items are smeltable now"
+            },
+            {
+                "balance": "strike and smash AP increased"
+            },
+            {
+                "qol": "Combat intents descriptions updated."
+            },
+            {
+                "balance": "Feinting is affected by perception. Defend intent increases chance to dodge."
+            }
+        ],
+        "Somniworld": [
+            {
+                "sound": "Changed the combat mode music for the Servant, Tapster and Ring Servant roles."
+            }
+        ]
     }
 }
